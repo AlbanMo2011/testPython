@@ -1,0 +1,5 @@
+print("Bonjour, comment t'apelles-tu ?")
+prénom = input()
+print(prénom + ", quel âge as tu ?")
+âge = input()
+print("Bonjour, " + prénom + " tu as " + âge + " ans")
